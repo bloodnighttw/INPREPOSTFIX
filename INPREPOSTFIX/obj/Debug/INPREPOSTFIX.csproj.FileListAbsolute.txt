@@ -1,0 +1,11 @@
+C:\Users\bntw\RiderProjects\INPREPOSTFIX\INPREPOSTFIX\bin\Debug\INPREPOSTFIX.exe.config
+C:\Users\bntw\RiderProjects\INPREPOSTFIX\INPREPOSTFIX\bin\Debug\INPREPOSTFIX.exe
+C:\Users\bntw\RiderProjects\INPREPOSTFIX\INPREPOSTFIX\bin\Debug\INPREPOSTFIX.pdb
+C:\Users\bntw\RiderProjects\INPREPOSTFIX\INPREPOSTFIX\obj\Debug\INPREPOSTFIX.csproj.AssemblyReference.cache
+C:\Users\bntw\RiderProjects\INPREPOSTFIX\INPREPOSTFIX\obj\Debug\INPREPOSTFIX.csproj.SuggestedBindingRedirects.cache
+C:\Users\bntw\RiderProjects\INPREPOSTFIX\INPREPOSTFIX\obj\Debug\INPREPOSTFIX.Properties.Resources.resources
+C:\Users\bntw\RiderProjects\INPREPOSTFIX\INPREPOSTFIX\obj\Debug\INPREPOSTFIX.csproj.GenerateResource.cache
+C:\Users\bntw\RiderProjects\INPREPOSTFIX\INPREPOSTFIX\obj\Debug\INPREPOSTFIX.csproj.CoreCompileInputs.cache
+C:\Users\bntw\RiderProjects\INPREPOSTFIX\INPREPOSTFIX\obj\Debug\INPREPOSTFIX.exe
+C:\Users\bntw\RiderProjects\INPREPOSTFIX\INPREPOSTFIX\obj\Debug\INPREPOSTFIX.pdb
+C:\Users\bntw\RiderProjects\INPREPOSTFIX\INPREPOSTFIX\obj\Debug\INPREPOSTFIX.Form1.resources
